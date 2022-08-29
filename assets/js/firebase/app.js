@@ -5,11 +5,11 @@
 
     // Your web app's Firebase configuration
     const firebaseConfig = {
-    apiKey: "AIzaSyBoz1LlUxI1Vsby_GvX3EwaxlfcTdyj9-E",
-    authDomain: "mundo-invertido-a677e.firebaseapp.com",
-    projectId: "mundo-invertido-a677e",
-    storageBucket: "mundo-invertido-a677e.appspot.com",
-    messagingSenderId: "442287311014",
+    apiKey: "apiKey",
+    authDomain: "authDomain",
+    projectId: "projectID",
+    storageBucket: "storageBucket",
+    messagingSenderId: "messagingSenderId",
     appId: "1:442287311014:web:3ab5eff500023a2764cc67"
   };
 
